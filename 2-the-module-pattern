@@ -70,7 +70,7 @@ myModule.reportMyConfig();
 // Outputs: fr
 myModule.updateMyConfig({
   language: "fr",
-  useCaching: false
+  useCaching: false 
 });
  
 // Outputs: Caching is: disabled
